@@ -8,4 +8,4 @@
 
 Text
 
-![Alt text]([image link](https://images.app.goo.gl/WgRPUa29fxpZfP5EA)https://images.app.goo.gl/WgRPUa29fxpZfP5EA)
+! [Alt text](https://images.app.goo.gl/WgRPUa29fxpZfP5EA)
